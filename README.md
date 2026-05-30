@@ -9,6 +9,14 @@
 
 ---
 
+## 🏠 欢迎来到我的 GitHub
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GTX950L&label=访客数量&color=blue&style=flat-square" alt="访客计数器" />
+</p>
+
+---
+
 ## 🎯 当前目标
 
 - 🐍 用 **Python** 作为第一门编程语言
