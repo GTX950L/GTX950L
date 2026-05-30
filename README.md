@@ -12,10 +12,10 @@
 
 | 项目 | 说明 |
 |------|------|
-| [python-learning-journal](https://github.com/GTX950L/python-learning-journal) | 📓 Python 学习笔记和代码片段 |
-| [cli-calculator](https://github.com/GTX950L/cli-calculator) | 🧮 命令行计算器（加减乘除） |
-| [todo-manager](https://github.com/GTX950L/todo-manager) | ✅ 命令行待办事项管理器 |
-| [weather-checker](https://github.com/GTX950L/weather-checker) | 🌤️ 实时天气查询小工具 |
+| [python-study-notes](https://github.com/GTX950L/python-study-notes) | 📓 Python 学习笔记和代码片段 |
+| [python-calculator](https://github.com/GTX950L/python-calculator) | 🧮 命令行计算器（加减乘除） |
+| [python-todo-list](https://github.com/GTX950L/python-todo-list) | ✅ 命令行待办事项管理器 |
+| [python-weather-app](https://github.com/GTX950L/python-weather-app) | 🌤️ 实时天气查询小工具 |
 
 ### 📚 学习路线
 
