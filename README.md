@@ -12,7 +12,7 @@
 ## 🏠 欢迎来到我的 GitHub
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GTX950L&label=访客数量&color=blue&style=flat-square" alt="访客计数器" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GTX950L.GTX950L&left_text=%E8%AE%BF%E5%AE%A2%E6%95%B0%E9%87%8F&left_color=blue&right_color=blue" alt="访客计数器" />
 </p>
 
 ---
