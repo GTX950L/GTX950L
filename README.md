@@ -1,6 +1,6 @@
 # 👋 你好，我是 GTX950L
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=GTX950L.GTX950L&left_text=%E8%AE%BF%E5%AE%A2%E6%95%B0%E9%87%8F&left_color=blue&right_color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=GTX950L&label=%E8%AE%BF%E5%AE%A2&color=blue)
 
 > 一个正在自学 Python 的业余爱好者，从零开始记录编程的每一步。
 
