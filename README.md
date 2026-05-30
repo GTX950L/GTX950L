@@ -1,7 +1,5 @@
 # 👋 你好，我是 GTX950L
 
-![Visitors](https://komarev.com/ghpvc/?username=GTX950L&label=%E8%AE%BF%E5%AE%A2&color=blue)
-
 > 一个正在自学 Python 的业余爱好者，从零开始记录编程的每一步。
 
 ---
