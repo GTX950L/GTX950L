@@ -36,3 +36,7 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# 日志文件
+*.log
+debug.log
