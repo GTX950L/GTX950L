@@ -25,14 +25,14 @@
 
 | 项目 | 描述 | 核心技术 |
 |------|------|---------|
-| 📓 [python-study-notes](https://github.com/GTX950L/python-study-notes) | Python 学习笔记合集 | 变量·循环·函数·文件读写 |
-| 🧮 [python-calculator](https://github.com/GTX950L/python-calculator) | 命令行四则运算计算器 | 基础运算·异常处理 |
-| ✅ [python-todo-list](https://github.com/GTX950L/python-todo-list) | 命令行任务管理器 | JSON 持久化 |
-| 🌤️ [python-weather-app](https://github.com/GTX950L/python-weather-app) | 实时天气查询工具 | API 调用·requests |
-| 🎯 [python-guess-number](https://github.com/GTX950L/python-guess-number) | 经典猜数字游戏 | 随机数·循环 |
-| ✊✌️✋ [python-rock-scissors-paper](https://github.com/GTX950L/python-rock-scissors-paper) | 石头剪刀布人机对战 | 随机·胜率统计 |
-| 🔐 [python-password-generator](https://github.com/GTX950L/python-password-generator) | 随机密码生成器 | string·random |
-| 📊 [python-data-chart](https://github.com/GTX950L/python-data-chart) | Excel/CSV 数据可视化 | pandas·matplotlib |
+| 📓 [python-study-notes](https://github.com/GTX950L/python-study-notes) | 记录 Python 学习路上的踩坑与心得 | 变量·循环·函数·文件读写 |
+| 🧮 [python-calculator](https://github.com/GTX950L/python-calculator) | 一个能跑的命令行计算器，练手用 | 基础运算·异常处理 |
+| ✅ [python-todo-list](https://github.com/GTX950L/python-todo-list) | 用 JSON 存任务，关掉终端也不丢 | JSON 持久化 |
+| 🌤️ [python-weather-app](https://github.com/GTX950L/python-weather-app) | 调了个天气 API，能查当前温度和天气 | API 调用·requests |
+| 🎯 [python-guess-number](https://github.com/GTX950L/python-guess-number) | 电脑随机出数字，猜中了超有成就感 | 随机数·循环 |
+| ✊✌️✋ [python-rock-scissors-paper](https://github.com/GTX950L/python-rock-scissors-paper) | 跟电脑 PK，目前胜率五五开 😂 | 随机·胜率统计 |
+| 🔐 [python-password-generator](https://github.com/GTX950L/python-password-generator) | 再也不用为"设什么密码"而头疼了 | string·random |
+| 📊 [python-data-chart](https://github.com/GTX950L/python-data-chart) | 把干巴巴的数据变成能看的图表 | pandas·matplotlib |
 
 ---
 
@@ -78,7 +78,7 @@ Python 入门
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GTX950L&theme=tokyonight&locale=zh_Hans&date_format=Y%5B%5D%2Fm%2Fd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GTX950L&theme=tokyonight&locale=zh_Hans&date_format=Y%5B%2Fm%2Fd" />
 </div>
 
 ---
