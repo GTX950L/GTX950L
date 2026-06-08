@@ -27,7 +27,7 @@
 
 目前的学习方式比较原始——**边做边学**，每学一个知识点就写一个能跑的小玩意把它巩固住。代码写得糙，但能跑就是胜利 ✌️
 
-最近在啃 **面向对象**，然后打算往 **数据分析** 方向走一走，看看 pandas 和 matplotlib 能做点什么。
+面向对象终于啃下来了，用工厂设备管理写了个练手项目感觉一下子通了。pandas 和 matplotlib 也摸了个大概，下一步打算深入 **数据透视表** 和 **时间序列**，再往 **自动化脚本** 方向靠一靠。
 
 ---
 
@@ -47,6 +47,8 @@
 | ✊✌️✋ [python-rock-scissors-paper](https://github.com/GTX950L/python-rock-scissors-paper) | 跟电脑 PK 石头剪刀布，目前胜率五五开 | 随机·条件判断·简单统计 |
 | 🔐 [python-password-generator](https://github.com/GTX950L/python-password-generator) | 再也不用为"设什么密码"而头疼了 | string·random 模块 |
 | 📊 [python-data-chart](https://github.com/GTX950L/python-data-chart) | 把干巴巴的 Excel 数据变成能看的图表 | pandas·matplotlib |
+| 🏭 [python-oop-device-manager](https://github.com/GTX950L/python-oop-device-manager) | 用工厂设备管理场景学面向对象 | 继承·封装·多态·抽象·组合 |
+| 📈 [python-data-analyzer](https://github.com/GTX950L/python-data-analyzer) | pandas 分析保养数据+matplotlib 出图 | groupby·agg·数据清洗·可视化 |
 
 ---
 
@@ -64,8 +66,9 @@ Python 入门进度
 ├── ████████████████████   ✅ 文件读写——终于不用 print 调试了
 ├── ████████████████████   ✅ try/except——程序不随便崩了
 ├── ████████████████████   ✅ import 标准库——会偷懒用现成的了
-├── ████████░░░░░░░░░░   🔄 面向对象（正在学，有点绕）
-├── ██████░░░░░░░░░░░░   🔄 pandas / matplotlib（下一站）
+├── ████████████████████   ✅ 面向对象——继承封装多态搞通了！
+├── ████████████████░░░   🔄 pandas / matplotlib（已入门，继续深入）
+├── ████████░░░░░░░░░░   🔄 数据透视表 / 时间序列（下一站）
 └── ░░░░░░░░░░░░░░░░   ⬜ 爬虫 / 自动化（远期目标）
 ```
 
