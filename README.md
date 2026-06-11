@@ -12,7 +12,7 @@
 
 <!-- 贪吃蛇动画 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GTX950L/GTX950L/output/snake/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/GTX950L/GTX950L/output/snake.svg" alt="snake" />
 </div>
 
 ---
@@ -117,5 +117,4 @@ Python 入门进度
 
 </div>
 
-<!-- GitHub 贪吃蛇工作流配置（放在 .github/workflows/ 目录下） -->
-<!-- 如需启用贪吃蛇动画，请手动创建 .github/workflows/snake.yml -->
+🐍 贪吃蛇动画由 GitHub Actions 自动生成 ~
