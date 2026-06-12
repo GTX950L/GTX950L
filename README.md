@@ -1,9 +1,9 @@
 <!-- 顶部动态打字机效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=坐标武汉+业余自学+Python;相信做中学+每个项目都是脚印;代码写得糙+但能跑就是胜利+%F0%9F%9A%80&font=Fira+Code&size=24&duration=2000&pause=1000&color=58a6ff&center=true&vCenter=true&width=800" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=坐标武汉+业余自学+Python;相信做中学+每个项目都是脚印;代码写得糙+但能跑就是胜利+%F0%9F%9A%80&font=Fira+Code&size=24&duration=2000&pause=1000&color=58a6ff&center=true&vCenter=true&width=800" alt="Typing SVG" />
 </div>
 
-<!-- 访客计数 + 关注 -->
+<!-- 访客计数 + 关注 + Stars -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GTX950L&style=flat-square&color=blue&label=访客数" />
   <img src="https://img.shields.io/github/followers/GTX950L?style=flat-square&logo=github&label=关注者&color=007EC6" />
@@ -17,12 +17,12 @@
 
 ---
 
-<!-- 关于我 - 用 SVG 分割线 -->
+<!-- 关于我 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-80858d420e64.png" width="100%" />
 
 ## 关于我
 
-> 当初选 Python 纯粹是因为听说它入门简单 😂
+> 当初选 Python 纯粹是因为听说它入门简单 😂  
 > 结果一入坑发现要学的东西还挺多。
 
 目前的学习方式比较原始——**边做边学**，每学一个知识点就写一个能跑的小玩意把它巩固住。代码写得糙，但能跑就是胜利 ✌️
@@ -63,9 +63,9 @@
 | 📓 [python-study-notes](https://github.com/GTX950L/python-study-notes) | 学的时候顺手记的笔记，怕忘了 | 变量·循环·函数·文件读写 |
 | 🧮 [python-calculator](https://github.com/GTX950L/python-calculator) | 第一个能跑的程序，命令行计算器 | 基础运算·异常处理 |
 | ✅ [python-todo-list](https://github.com/GTX950L/python-todo-list) | 命令行待办，关掉终端任务还在 | JSON 读写·数据持久化 |
-| 🌤️ [python-weather-app](https://github.com/GTX950L/python-weather-app) | 调了个免费天气 API，能查实时天气 | requests·API 调用 |
-| 🎯 [python-guess-number](https://github.com/GTX950L/python-guess-number) | 猜数字，猜中了很有成就感 | 随机数·while 循环 |
-| ✊✌️✋ [python-rock-scissors-paper](https://github.com/GTX950L/python-rock-scissors-paper) | 跟电脑 PK 石头剪刀布，目前胜率五五开 | 随机·条件判断·简单统计 |
+| 🌤️ [python-weather-app](https://github.com/GTX950L/python-weather-app) | 调了个免费天气 API，能查实时天气 | urllib·JSON 解析·API 调用 |
+| 🎯 [python-guess-number](https://github.com/GTX950L/python-guess-number) | 猜数字，猜中了很有成就感 | 随机数·while 循环·异常处理 |
+| ✊✌️👋 [python-rock-scissors-paper](https://github.com/GTX950L/python-rock-scissors-paper) | 跟电脑 PK 石头剪刀布，目前胜率五五开 | 随机·条件判断·简单统计 |
 | 🔐 [python-password-generator](https://github.com/GTX950L/python-password-generator) | 再也不用为"设什么密码"而头疼了 | string·random 模块 |
 | 📊 [python-data-chart](https://github.com/GTX950L/python-data-chart) | 把干巴巴的 Excel 数据变成能看的图表 | pandas·matplotlib |
 | 🏭 [python-oop-device-manager](https://github.com/GTX950L/python-oop-device-manager) | 用工厂设备管理场景学面向对象 | 继承·封装·多态·抽象·组合 |
@@ -78,7 +78,7 @@
 
 ## 学到哪了
 
-```
+```text
 Python 入门进度
 ├── ████████████████████   ✅ 变量和数据类型——搞懂了
 ├── ████████████████████   ✅ if/else 判断——会用了
@@ -91,7 +91,7 @@ Python 入门进度
 ├── ████████████████████   ✅ 面向对象——继承封装多态搞通了！
 ├── ████████████████████   ✅ pandas / matplotlib（已入门，继续深入）
 ├── ████████░░░░░░░░░░   🔄 数据透视表 / 时间序列（下一站）
-└── ░░░░░░░░░░░░░░░░   ⬜ 爬虫 / 自动化（远期目标）
+└── ░░░░░░░░░░░░░░░░   ⚡ 爬虫 / 自动化（远期目标）
 ```
 
 ---
@@ -113,7 +113,7 @@ Python 入门进度
 
 ---
 
-<img src="https://user-images.githubusercontent.com/730975L/115834477-dbab4500-a447-11eb-908a-80858d420e64.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-80858d420e64.png" width="100%" />
 
 ## 数据面板
 
@@ -134,9 +134,11 @@ Python 入门进度
 
 *"千里之行，始于足下。"* 🚀
 
-有同样在自学 Python 的朋友欢迎来交流～
+有同样在自学 Python 的朋友欢迎来交流～  
 如果我的代码对你有参考价值，那是意外之喜 😄
 
+<!-- 最后更新时间 -->
+*最后更新：2026-06-12*
 </div>
 
 🐍 贪吃蛇动画由 GitHub Actions 自动生成 ~
