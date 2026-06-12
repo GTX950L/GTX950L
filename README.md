@@ -22,12 +22,33 @@
 
 ## 关于我
 
-> 当初选 Python 纯粹是因为听说它入门简单 😂  
+> 当初选 Python 纯粹是因为听说它入门简单 😂
 > 结果一入坑发现要学的东西还挺多。
 
 目前的学习方式比较原始——**边做边学**，每学一个知识点就写一个能跑的小玩意把它巩固住。代码写得糙，但能跑就是胜利 ✌️
 
 面向对象终于啃下来了，用工厂设备管理写了个练手项目感觉一下子通了。pandas 和 matplotlib 也摸了个大概，下一步打算深入 **数据透视表** 和 **时间序列**，再往 **自动化脚本** 方向靠一靠。
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-80858d420e64.png" width="100%" />
+
+## 🌟 精选推荐
+
+### 📚 [GitHub 使用百科全书](https://github.com/GTX950L/github-encyclopedia)
+
+> GitHub 使用百科全书 —— 从新手到资深玩家的完整指南
+
+一套面向中文用户的 GitHub 完整学习资料，覆盖从注册、安装、基础命令到进阶协作、开源贡献的全流程。
+
+**为什么写这个：** 自学 GitHub 的时候发现中文资料要么太碎片、要么太旧，干脆自己整理一套，边学边写，也方便以后回头查。
+
+**适合谁看：**
+- GitHub 纯新手，想从零开始系统学
+- 会用基本命令但不太懂协作流程
+- 想参与开源不知道从哪下手
+
+**项目地址：<https://github.com/GTX950L/github-encyclopedia>**
 
 ---
 
@@ -49,6 +70,7 @@
 | 📊 [python-data-chart](https://github.com/GTX950L/python-data-chart) | 把干巴巴的 Excel 数据变成能看的图表 | pandas·matplotlib |
 | 🏭 [python-oop-device-manager](https://github.com/GTX950L/python-oop-device-manager) | 用工厂设备管理场景学面向对象 | 继承·封装·多态·抽象·组合 |
 | 📈 [python-data-analyzer](https://github.com/GTX950L/python-data-analyzer) | pandas 分析保养数据+matplotlib 出图 | groupby·agg·数据清洗·可视化 |
+| 📚 [github-encyclopedia](https://github.com/GTX950L/github-encyclopedia) | GitHub 使用百科全书，从新手到资深玩家的完整指南 | Markdown·文档编写·开源协作 |
 
 ---
 
@@ -67,7 +89,7 @@ Python 入门进度
 ├── ████████████████████   ✅ try/except——程序不随便崩了
 ├── ████████████████████   ✅ import 标准库——会偷懒用现成的了
 ├── ████████████████████   ✅ 面向对象——继承封装多态搞通了！
-├── ████████████████░░░   🔄 pandas / matplotlib（已入门，继续深入）
+├── ████████████████████   ✅ pandas / matplotlib（已入门，继续深入）
 ├── ████████░░░░░░░░░░   🔄 数据透视表 / 时间序列（下一站）
 └── ░░░░░░░░░░░░░░░░   ⬜ 爬虫 / 自动化（远期目标）
 ```
@@ -91,7 +113,7 @@ Python 入门进度
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-80858d420e64.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/730975L/115834477-dbab4500-a447-11eb-908a-80858d420e64.png" width="100%" />
 
 ## 数据面板
 
@@ -112,7 +134,7 @@ Python 入门进度
 
 *"千里之行，始于足下。"* 🚀
 
-有同样在自学 Python 的朋友欢迎来交流～  
+有同样在自学 Python 的朋友欢迎来交流～
 如果我的代码对你有参考价值，那是意外之喜 😄
 
 </div>
